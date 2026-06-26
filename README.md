@@ -1,1 +1,2 @@
 # aula-python
+O programa simula o atendimento de clientes em uma loja. ele solicita o nome do cliente e o valor da compra, verifica se a compra é maior que R$ 100,00, nesse caso, aplica um desconto de 10%. em seguida, calcula e exibe o valor final da compra. ao final de cada atendimento, pergunta se o usuário deseja atender outro cliente. se a resposta for "S" ou  "s", o processo se repete; caso contrário colocando "N", o programa é encerrado. 
